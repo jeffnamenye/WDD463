@@ -1,0 +1,22 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "dynamic form",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnamenye/WDD463.git"
+  },
+  "author": "Jnamenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnamenye/WDD463/issues"
+  },
+  "homepage": "https://github.com/jeffnamenye/WDD463#readme",
+  "dependencies": {
+    "node.js": "0.0.0"
+  }
+}
